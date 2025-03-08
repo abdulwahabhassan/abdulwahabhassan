@@ -1,16 +1,26 @@
-## Hi there 👋
+### Welcome, I'm Hassan 👋
 
-<!--
-**abdulwahabhassan/abdulwahabhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Software Engineer | Mobile Developer
 
-Here are some ideas to get you started:
+I'm passionate about building impactful digital mobile applications, which I have demonstrated through a portfolio that spans automated downstream petroleum marketing, government revenue digital initiatives, fintech, and the global health supply chain. With experience in Android & iOS development, I specialize in crafting scalable, intuitive, aesthetically appealing, high-performance applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 📚 Tech Stack
+
+💻 Languages: Kotlin, Swift, Dart, Python, Rust, Javascript
+
+📱 Frameworks: Jetpack Compose, SwiftUI, Flutter
+
+🖥️ IDEs: Android Studio, Xcode, VS Code 
+
+🛠 Tools & Platforms: Git, Github, Google Cloud, Firebase, App Store, Play Store
+
+---
+
+#### 📫 Get in Touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/hassan-abdulwahab-031871196/) | 📧 [Email](devhassan.org@gmail.com)
+
+Let's build something great together! 🚀
+
