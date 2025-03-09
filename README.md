@@ -71,7 +71,8 @@ I'm passionate about building impactful digital mobile applications, which I hav
 ### 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/hassan-abdulwahab-031871196" target="_blank"><img src="resources/contacts/linkedin.png" width="25"/></a>
-<a href="devhassan.org@gmail.com" target="_blank"><img src="resources/contacts/gmail.png" width="25"/></a>
+&nbsp;
+<a href="mailto:devhassan.org@gmail.com" target="_blank"><img src="resources/contacts/gmail.png" width="25"/></a>
 
 
 Let's build something great together! 🚀
