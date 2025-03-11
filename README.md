@@ -25,7 +25,7 @@ I'm passionate about building impactful digital mobile applications, which I hav
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-015696?style=flat-square&logo=androidstudio&logoColor=42C173)
 ![Xcode](https://img.shields.io/badge/Xcode-364158?style=flat-square&logo=xcode&logoColor=white)
-<img src="resources/ides/Visual_Studio_Code_1.35_icon.svg.png" width="19.5"/> ![VS Code](https://img.shields.io/badge/VS%20Code-333338?style=flat-square)
+<img src="resources/ides/vscode.png" width="19.5"/> ![VS Code](https://img.shields.io/badge/VS%20Code-333338?style=flat-square)
 
 🛠 Tools & Platforms:
 
