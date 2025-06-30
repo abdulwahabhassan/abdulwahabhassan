@@ -1,6 +1,6 @@
 ### Welcome, I'm Hassan 👋
 
-#### 🚀 Software Engineer | Mobile Developer
+#### 🚀 Software Developer | Mobile App Developer
 
 I'm passionate about building impactful digital mobile applications, which I have demonstrated through a portfolio that spans automated downstream petroleum marketing, government revenue digital initiatives, fintech, and the global health supply chain. With experience in Android & iOS development, I specialize in crafting scalable, intuitive, aesthetically appealing, high-performance applications.
 
