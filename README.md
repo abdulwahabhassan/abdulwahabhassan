@@ -45,6 +45,11 @@ I'm passionate about building impactful digital mobile applications, which I hav
             <img src="resources/employers/chemonics.png" width="50"/>
         </a>
     </td>
+     <td>
+        <a href="https://www.kuda.com/" target="_blank">
+            <img src="resources/employers/kuda.png" width="50"/>
+        </a>
+    </td>
     <td>
         <a href="https://getcarbon.co/" target="_blank">
             <img src="resources/employers/carbon.png" width="50"/>
