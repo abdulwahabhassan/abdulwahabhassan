@@ -2,7 +2,7 @@
 
 #### 🚀 Software Developer | Mobile App Developer
 
-I'm passionate about building impactful digital mobile applications, which I have demonstrated through a portfolio that spans automated downstream petroleum marketing, government revenue digital initiatives, fintech, and the global health supply chain. With experience in Android & iOS development, I specialize in crafting scalable, intuitive, aesthetically appealing, high-performance applications.
+I'm passionate about building mobile apps. I have 5+ years of extensive experience that spans automation engineering, government-led digital initiatives, fintech, and global health supply chain management. I specialize in Android & iOS app development - crafting scalable, intuitive, and user-friendly modern applications.
 
 ### 📚 Tech Stack
 
